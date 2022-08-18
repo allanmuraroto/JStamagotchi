@@ -1,1 +1,1 @@
-alert('jacaré com fome');
+/* alert('jacaré com fome'); */
