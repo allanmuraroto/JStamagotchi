@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+
+.sapo-img {
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+}
+
+.quadrado {
+    background-color: beige;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 20%;
+}
+
+.jogar-btn {    
+    text-align: center;
+    
+}
+
+.campo-entrada {
+    margin: 0 auto;
+    width: 30%;
+}
