@@ -46,8 +46,37 @@ function start()
 
 function Comer()
 {
+    fome = 100;
     document.getElementById('fome').innerHtml = fome + '%';
-    document.getElementById('fome').style.width = fome + '%';
+    document.getElementById('fome').style.width = fome + 'px';
+}
+
+function Banho()
+{
+    higiene = 100;
+    document.getElementById('higiene').innerHtml = higiene + '%';
+    document.getElementById('higiene').style.width = higiene + 'px';
+}
+
+function Dormir()
+{
+    sono = 100;
+    document.getElementById('sono').innerHtml = sono + '%';
+    document.getElementById('sono').style.width = sono + 'px';
+}
+
+function Brincar()
+{
+    diversao = 100;
+    document.getElementById('diversao').innerHtml = diversao + '%';
+    document.getElementById('diversao').style.width = diversao + 'px';
+}
+
+function Conversar()
+{
+    social = 100;
+    document.getElementById('social').innerHtml = social + '%';
+    document.getElementById('social').style.width = social + 'px';
 }
 
 
